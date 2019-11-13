@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "main.h"
 
-#ifndef TEST
+#ifndef TEST2
 int main() {
     printf("Rule Breaker!!!\n");
     printf("5 + 2 = %d\n", addNumber(5, 2));
